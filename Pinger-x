@@ -54,8 +54,8 @@ print('''
                                                                                              ▀              ▀                                                                                             
 
 ''')
-ip = raw_input("IP Target : ")
-port = input("Port       : ")
+ip = raw_input("USER IP : ")
+port = input("USER PORT   : ")
 
 os.system("clear")
 print "[                    ] 0% "
